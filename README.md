@@ -7,9 +7,7 @@ HLS Segmenter use ffmpeg, and works great on Linux.
 
 DEPENDENCIES: FFmpeg
 
-* Tested with FFmpeg 2.5.8 on Ubuntu 15.04 
-* Tested with FFmpeg 2.6.4 on Debian 8 (http://www.deb-multimedia.org/)
-
+* Tested with FFmpeg 2.8.11 on Ubuntu 16.04 .1
 
 CONFIGURE:
 
